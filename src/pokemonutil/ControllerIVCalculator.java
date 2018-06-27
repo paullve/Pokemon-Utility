@@ -1,4 +1,5 @@
 package pokemonutil;
 
-public class ControllerIVCalculator {
+public class ControllerIVCalculator
+{
 }

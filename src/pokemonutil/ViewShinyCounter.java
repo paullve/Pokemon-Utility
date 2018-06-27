@@ -7,15 +7,15 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
 /*
-* View layer for the Shiny Counter
-*
-* Code by Paul von Ebers
-*
-* Data acquired from Bulbapedia and Serebii
-*/
+ * View layer for the Shiny Counter
+ *
+ * Code by Paul von Ebers
+ *
+ * Data acquired from Bulbapedia and Serebii
+ */
 
-public class ViewShinyCounter {
-
+public class ViewShinyCounter
+{
 
 
 

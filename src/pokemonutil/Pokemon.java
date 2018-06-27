@@ -1,6 +1,7 @@
 package pokemonutil;
 
-public class Pokemon {
+public class Pokemon
+{
 
     private String name;
 
@@ -13,7 +14,8 @@ public class Pokemon {
 
     private int gen;    //  Generation
 
-    public Pokemon(String name, int hp, int atk, int def, int spe, int spa, int spd, int gen) {
+    public Pokemon(String name, int hp, int atk, int def, int spe, int spa, int spd, int gen)
+    {
 
         this.name = name;
 

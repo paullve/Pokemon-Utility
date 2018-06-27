@@ -1,4 +1,5 @@
 package pokemonutil;
 
-public class ControllerMainMenu {
+public class ControllerMainMenu
+{
 }

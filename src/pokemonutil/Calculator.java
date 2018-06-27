@@ -1,6 +1,7 @@
 package pokemonutil;
 
-public class Calculator {
+public class Calculator
+{
 
     private static int hp;     //  Health
     private static int atk;    //  Attack
@@ -13,6 +14,7 @@ public class Calculator {
 
     /**
      * Loads values from the pokemon
+     *
      * @param inHP
      * @param inATK
      * @param inDEF
@@ -21,7 +23,8 @@ public class Calculator {
      * @param inSPD
      * @param inGEN
      */
-    public static void loadValues(int inHP, int inATK, int inDEF, int inSPE, int inSPA, int inSPD, int inGEN) {
+    public static void loadValues(int inHP, int inATK, int inDEF, int inSPE, int inSPA, int inSPD, int inGEN)
+    {
         hp = inHP;
         atk = inATK;
         def = inDEF;

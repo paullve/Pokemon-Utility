@@ -1,3 +1,5 @@
+package pokemonutil;
+
 public class Calculator {
 
     private static int hp;     //  Health

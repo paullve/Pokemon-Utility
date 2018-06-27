@@ -27,11 +27,11 @@ public class ViewMainMenu
         BorderPane bPaneMain = new BorderPane();
 
         //  The Grid of screen selection buttons
-        GridPane gridSceneSelect = genGridSceneSelect();    gridSceneSelect.setGridLinesVisible(true);
-        GridPane gridTopDetails = genGridTop();             gridTopDetails.setGridLinesVisible(true);
-        GridPane gridBufferLeft = genBufferGrid();          gridBufferLeft.setGridLinesVisible(true);
-        GridPane gridBufferRight = genBufferGrid();         gridBufferRight.setGridLinesVisible(true);
-        GridPane gridBottomDetails = genBottomGrid();       gridBottomDetails.setGridLinesVisible(true);
+        GridPane gridSceneSelect = genGridSceneSelect();
+        GridPane gridTopDetails = genGridTop();
+        GridPane gridBufferLeft = genBufferGrid();
+        GridPane gridBufferRight = genBufferGrid();
+        GridPane gridBottomDetails = genBottomGrid();
 
 
         // Adding stuff to BorderPane
